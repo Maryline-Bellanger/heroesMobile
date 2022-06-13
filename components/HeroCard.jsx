@@ -30,21 +30,17 @@ const styles = StyleSheet.create({
   heroTitle:{
     fontSize: 18,
     fontFamily: 'AkayaKanadaka_400Regular',
-    /* color: '#2B2A2C', */
   },
   heroTitleLight:{
     fontSize: 18,
     fontFamily: 'AkayaKanadaka_400Regular',
-    /* color: 'seashell', */
   },
   heroText: {
     fontSize: 10,
     fontFamily: 'RocknRollOne_400Regular',
-    /* color: '#2B2A2C', */
   },
   heroTextLight: {
     fontSize: 10,
     fontFamily: 'RocknRollOne_400Regular',
-    /* color: 'seashell', */
   }
 })
